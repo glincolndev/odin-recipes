@@ -1,0 +1,46 @@
+<!DOCTYPE html>
+<html lang="pt-br">
+<head>
+    <meta charset="UTF-8">
+    <title>Document</title>
+</head>
+<body>
+    <h1>Prato</h1>
+    <!-- foto do prato-->
+    <img src="" alt="">
+    <br>
+    <!--referencia da foto-->
+    <a href="" target="_blank" rel="noreferrer"></a>
+
+    <br><br>
+    <!-- Descrição -->
+    <p>descricao do prato</p>
+    <br><br>
+
+    <p>insira aqui etapa do prato, se houver</p>
+        <p><strong>Ingredientes</strong></p>
+        <!--lista de ingredientes-->
+        <ul>
+            <li></li>
+        </ul>
+        <br><br>
+
+        <p><strong>Modo de Preparo</strong></p>
+        <!--etapas de preparo-->
+        <ol>
+            <li></li>
+        </ol>
+        <br><br>
+        <!--repetir o quanto necessario-->
+
+        <br><br><br><br>
+    <!--botão voltar-->
+    <h2><a href="../../index.html">Voltar</a></h2>
+    <br><br>
+    <!--Página fonte da receita-->
+    <p><strong>Referências:</strong></p>
+    <p> insira referencia aqui, e o link
+        aqui <a href="" target="_blank" rel="noreferrer">link da receita</a>
+    </p>
+</body>
+</html>
